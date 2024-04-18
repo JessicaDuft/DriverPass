@@ -1,8 +1,10 @@
 
 
-Please review the Business Requirement Document attached to this repo. This document displays the skills I learned in CS255 System Analysis and Design 
+Please review the [Business Requirement Document ](https://github.com/JessicaDuft/DriverPass/blob/main/Business_Requirements.docx) attached to this repo. This document displays the skills I learned in CS255 System Analysis and Design 
 <br/>
-This document is just one example of the ability I have gained throughout my time at SNHU to effectively communicate with stakeholders and team members by using industry appropriate tools. 
+
+
+This document is just one example of the ability I have gained throughout my time at SNHU to effectively communicate with stakeholders and team members by using industry appropriate tools. In this document I analyze client requirements,fucntionality, limitations and built a GANT chart that would allow the team to bring the project to completion in 15 weeks. 
 <br/>
 
 
