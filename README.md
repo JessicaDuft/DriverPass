@@ -33,4 +33,10 @@ I interpreted the user’s needs by thoroughly analyzing the transcript and crea
 
 •	How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 I approach designing software by very thoroughly analyzing client expectations and requirements. Taking each requirement and functional expectation into account a system can be designed that meet’s and exceeds the client’s expectations. In the future I would approach things the same way, I would take my time and very thoroughly analyze what exactly the client would like the system to do and accomplish. 
+<br/>
+<br/>
+<br/>
+<br/>
+
+[View my Eportfolio here](https://github.com/JessicaDuft/EPortfolio)
 
